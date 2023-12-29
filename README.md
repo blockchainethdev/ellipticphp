@@ -43,7 +43,7 @@ Projects which use Fast ECC PHP library: [PrivMX WebMail](https://privmx.com), .
 
 You can install this library via Composer:
 ```
-composer require simplito/elliptic-php
+composer require blockchainethdev/ellipticphp
 ```
 
 
@@ -347,4 +347,4 @@ if ($expected_c_child == $c_i && $expected_K_child == $K_i) {
 
 
 [0]: http://tools.ietf.org/html/rfc6979
-[1]: https://github.com/simplito/bn-php
+[1]: https://github.com/blockchainethdev/bn-php
